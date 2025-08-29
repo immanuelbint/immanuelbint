@@ -3,16 +3,17 @@
 ![](https://komarev.com/ghpvc/?username=immanuelbint&color=blue)
 
 ### What I'm Learning
-- DevOps Tools: Git, CI/CD (GitHub Actions), Ansible, Docker, Terraform, Vault
-- Infrastructure: Linux, Proxmox, Cloud (AWS/GCP fundamentals)
-- Monitoring & Logging: Prometheus, Grafana, Loki
-- Security: Vault, SSH Hardening, Fail2ban
+- Cloud & Infrastructure: AWS (EC2, S3, IAM, VPC), GCP (fundamentals), Linux, Proxmox
+- DevOps & Automation: Git, CI/CD (GitHub Actions), Ansible, Docker, Terraform, Vault
+- Monitoring & Observability: Prometheus, Grafana, Loki
+- Security & Hardening: Vault, SSH Hardening, Fail2ban
 - Scripting: Bash, Python
 
 ### Current Goals
-- Contribute to open-source infra projects
-- Share notes and tutorials about what I’m learning
-- Build a complete local DevOps lab from scratch
+- Build and document hands-on AWS projects (lab + GitHub repo)
+- Contribute to open-source infra/cloud projects
+- Share notes and tutorials about DevOps & Cloud
+- Expand my local-to-cloud DevOps lab from scratch
 
 ### Highlighted Repositories
 - [`shell-scripting`](https://github.com/immanuelbint/shell-scripting): A collection of shell scripts for automating various Linux system tasks.
