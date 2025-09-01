@@ -17,6 +17,7 @@
 
 ### Highlighted Repositories
 - [`shell-scripting`](https://github.com/immanuelbint/shell-scripting): A collection of shell scripts for automating various Linux system tasks.
+- [`aws-cloud-labs`](https://github.com/immanuelbint/aws-cloud-labs): AWS overview, hands-on labs, and mini-projects aimed at building my skills in AWS and cloud engineering.
 - [`odoo-docker-ci`](https://github.com/immanuelbint/odoo-docker-ci): Practice project deploying Odoo with Docker and CI/CD.
 - [`opentofu-kvm-rocky`](https://github.com/immanuelbint/opentofu-kvm-rocky): Infrastructure-as-Code using OpenTofu to deploy VMs on KVM.
 - [`docs`](https://github.com/immanuelbint/immanuelbint.github.io): My personal documentation site built with VitePress.
