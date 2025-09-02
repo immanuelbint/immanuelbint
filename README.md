@@ -24,8 +24,8 @@
 
 ### My GitHub contributions summary
 
-<p float="center">
-<img height="110em" src="https://github-readme-stats.vercel.app/api?username=immanuelbint&show_icons=true&theme=radical&layout=compact"/>
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanuelbint&layout=compact&theme=radical&custom_title=Languange" />
-</p>
+<div align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=immanuelbint&show_icons=true&theme=radical&layout=compact"/>
+<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanuelbint&layout=compact&theme=radical&custom_title=Languange" />
+</div>
 
