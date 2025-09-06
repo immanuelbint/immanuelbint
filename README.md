@@ -50,10 +50,10 @@
   The main goal of this repository is to document my hands-on learning process, keep track of scripts, configurations, and insights gained while practicing AWS services and DevOps-related tasks.
 
 - [**Immanuelbint Docs**](https://github.com/immanuelbint/immanuelbint.github.io)  
-  My personal documentation site built with VitePress. Focused on DevOps, System Administration, Infrastructure, and CLI practices.
+  Developed and maintained a documentation site using VitePress and GitHub Pages to publish notes and practical guides on Linux, Ansible, and DevOps tooling, aimed at reinforcing hands-on learning.
 
 - [**Odoo Docker CI**](https://github.com/immanuelbint/odoo-docker-ci)  
-  Practice project deploying Odoo with Docker and CI/CD.
+  Designed a basic CI/CD pipeline for an Odoo application using Docker and GitLab CI. Implemented automated build and deployment steps in a containerized environment, demonstrating core DevOps principles in a homelab context.
 
 ---
 
