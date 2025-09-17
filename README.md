@@ -38,6 +38,13 @@
 
 <div align='center'>
 
+### Certifications
+
+<p align="center">
+<a href="https://www.credly.com/badges/fd6678d0-748e-4fde-9f95-fc427bba4781/public_url"><img width=200 src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"/></a>
+</p>
+
+  
 ### Highlighted Repository
 
 </div>
