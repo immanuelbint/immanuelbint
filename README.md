@@ -10,9 +10,8 @@
 </div>
 
 <!---My GitHub contributions summary---> 
-
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=immanuelbint&show_icons=true&theme=dark&layout=compact"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=immanuelbint&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=immanuelbint&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
