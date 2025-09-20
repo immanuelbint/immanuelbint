@@ -58,6 +58,10 @@
 - [**Immanuelbint Docs**](https://github.com/immanuelbint/immanuelbint.github.io)  
   Developed and maintained a documentation site using VitePress and GitHub Pages to publish notes and practical guides on Linux, Ansible, and DevOps tooling, aimed at reinforcing hands-on learning.
 
+- [**IAC Labs**](https://github.com/immanuelbint/iac-labs)  
+  IaC overview, hands-on labs, and mini-projects aimed at continuously building my skills in Infrastructure as Code and learn the best practices.
+  The main goal of this repository is to document my hands-on learning process, configurations, and insights gained while practicing Infrastructure as Code.
+
 - [**Odoo Docker CI**](https://github.com/immanuelbint/odoo-docker-ci)  
   Designed a basic CI/CD pipeline for an Odoo application using Docker and GitLab CI. Implemented automated build and deployment steps in a containerized environment, demonstrating core DevOps principles in a homelab context.
 
