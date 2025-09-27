@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,ansible,bash,grafana,mysql,prometheus,elasticsearch,terraform,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,python,ansible,bash,grafana,mysql,prometheus,elasticsearch,terraform,postgres" />
   </a>
 </p>
 
@@ -52,18 +52,16 @@
   A collection of shell scripts for automating various Linux system tasks. Each script is built to be portable, readable, and (mostly) POSIX compliant. Perfect for system admins, learners, or CLI fans.
 
 - [**AWS Cloud Labs – Homelab Project**](https://github.com/immanuelbint/aws-cloud-labs)  
-  AWS overview, hands-on labs, and mini-projects aimed at building my skills in AWS and cloud engineering.
-  The main goal of this repository is to document my hands-on learning process, keep track of scripts, configurations, and insights gained while practicing AWS services and DevOps-related tasks.
+  Built and documented several AWS hands-on (EC2, S3, IAM, VPC) to strengthen cloud fundamentals. Included reusable scripts and step-by-step notes to support future automation practice. (AWS, Terraform, Bash).
 
 - [**Immanuelbint Docs**](https://github.com/immanuelbint/immanuelbint.github.io)  
-  Developed and maintained a documentation site using VitePress and GitHub Pages to publish notes and practical guides on Linux, Ansible, and DevOps tooling, aimed at reinforcing hands-on learning.
+  Created and maintained a documentation site hosted on GitHub Pages to share technical notes on Linux, Ansible, and DevOps tooling. Improved writing clarity and knowledge-sharing while reinforcing learning. (VitePress, GitHub Pages).
 
 - [**IAC Labs**](https://github.com/immanuelbint/iac-labs)  
-  IaC overview, hands-on labs, and mini-projects aimed at continuously building my skills in Infrastructure as Code and learn the best practices.
-  The main goal of this repository is to document my hands-on learning process, configurations, and insights gained while practicing Infrastructure as Code.
+  Developed multiple Infrastructure-as-Code labs using Terraform and CloudFormation. Focused on automating VM provisioning and infrastructure consistency across environments. (Terraform, CloudFormation, Ansible).
 
 - [**Odoo Docker CI**](https://github.com/immanuelbint/odoo-docker-ci)  
-  Designed a basic CI/CD pipeline for an Odoo application using Docker and GitLab CI. Implemented automated build and deployment steps in a containerized environment, demonstrating core DevOps principles in a homelab context.
+  Implemented a basic CI/CD pipeline for Odoo in a containerized setup using Docker and GitLab CI. Automated build, testing, and deployment workflows to simulate production delivery. (Docker, GitLab CI).
 
 ---
 
