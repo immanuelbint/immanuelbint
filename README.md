@@ -1,6 +1,6 @@
 <!-- Hello, I'm Immanuel Bintang! -->
 
-![](resources/banner.png)
+<!![](resources/banner.png)
 
 <div align='center'>
 
@@ -41,8 +41,8 @@
 
 <p align="center">
 <a href="https://www.credly.com/badges/fd6678d0-748e-4fde-9f95-fc427bba4781/public_url"><img width=200 src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"/></a>
+  <a href="https://www.credly.com/badges/39292f9e-3a6a-4cd9-8342-1ca2da508690/public_url"><img width=200 src="https://images.credly.com/images/f170dbe8-dc4e-4920-a06d-100a197616d5/image.png"/></a>
 </p>
-
   
 ### Highlighted Repository
 
