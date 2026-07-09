@@ -1,6 +1,6 @@
 <!-- Hello, I'm Immanuel Bintang! -->
 
-<!![](resources/banner.png)
+![](resources/banner.png)
 
 <div align='center'>
 
